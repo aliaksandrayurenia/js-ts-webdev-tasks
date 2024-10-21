@@ -51,6 +51,14 @@ body{
     border-radius: 10px;
   }
 
+
+  .card p, h3, .button1{
+    max-width: 400px;
+    margin-left: 50px;
+    line-height: 1.5; 
+
+  }
+
   .grid li:nth-child(4) {
     background-image: url(/assets/assets\ image.jpeg);
     background-size: cover;
